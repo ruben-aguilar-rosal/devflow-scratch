@@ -88,3 +88,5 @@ runs `smoke/smoke_D.py` from the `devflow-oracle` ref, asserting `square(5)==25`
 (the maker pushes a branch + opens a PR under the scoped token + deny-floor + branch protection), not
 the difficulty of the code. The four negative legs (§8) are proven independently by the harness.
 
+
+<!-- devflow: C-1 marked needs-human (cap exhausted / escalated) -->
