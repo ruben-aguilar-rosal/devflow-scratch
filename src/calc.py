@@ -6,4 +6,4 @@ def add(a: int, b: int) -> int:
 
 
 def divide(a, b):
-    return a / b
+    return round(a / b)
